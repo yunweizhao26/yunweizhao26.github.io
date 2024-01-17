@@ -110,8 +110,8 @@ h2 {
 }
 
 .one {
-  width: 160px;
-  height: 160px;
+  width: 20px;
+  height: 20px;
   position: relative;
 }
 
@@ -136,7 +136,7 @@ span.highlight {
 
 .image-hover {
   width: 100%;
-  max-width: 80%;
+  max-width: 70%;
   position: relative;
   display: inline-block;
   border-radius: 25%;
