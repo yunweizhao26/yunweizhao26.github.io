@@ -1,1 +1,1 @@
-This is the source code to Yunwei Zhao's public academic website: https://yz26cn.github.io/.
+Based on Jon Barron's public academic website: https://jonbarron.info/.
