@@ -173,10 +173,6 @@ span.highlight {
   opacity: 0;
 }
 
-.image-hover:hover img {
-  opacity: 0;
-}
-
 .image-hover:hover .hover-text {
   display: flex;
   opacity: 1;
